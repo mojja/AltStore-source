@@ -1,0 +1,17 @@
+{
+  "name": "Ludvigs App Store",
+  "identifier": "com.ludvig.nebulo-source",
+  "apps": [
+    {
+      "name": "Nebulo",
+      "bundleIdentifier": "com.Nebulo.app",
+      "developerName": "Nebulo Developer",
+      "version": "1.0.0",
+      "versionDate": "2026-07-05",
+      "downloadURL": "KLISTRA_IN_URLEN_DU_KOPIERADE_FRÅN_GITHUB_RELEASES_HÄR",
+      "iconURL": "https://raw.githubusercontent.com/DITT_GITHUB_ANVÄNDARNAMN/altstore-repo/main/icon.png",
+      "subtitle": "DNS Changer for iOS",
+      "description": "Nebulo is a DNS changer app that supports DNS-over-HTTPS and DNS-over-TLS to secure your internet traffic."
+    }
+  ]
+}
